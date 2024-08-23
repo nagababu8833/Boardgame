@@ -79,7 +79,7 @@ sudo snap install trivy
 docker pull hello-world
 ```
 ```
-   35  docker run -d --name sonar -p 9000:9000 mc1arke/sonarqube-with-community-branch-plugin
+docker run -d --name sonar -p 9000:9000 mc1arke/sonarqube-with-community-branch-plugin
 ```
 
 
