@@ -74,3 +74,7 @@ sudo apt update
 ```
 sudo apt update
 ```
+
+```
+sonar.java.binaries=.
+```
