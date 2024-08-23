@@ -90,3 +90,6 @@ sonar.java.binaries=.
 ```
 trivy fs --format table -o trivy-fs-report.html
 ```
+```
+trivy image --format table -o trivy-image-report.html  nagababu8833/boardazure:latest
+```
